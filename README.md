@@ -47,7 +47,7 @@ Everything runs in your browser and no data is uploaded. The demo data is synthe
 I recorded over 400 diagnostic EEG studies as a technician in a pediatric neurology hospital. I built this tool to make labeling artifacts and seizures quick and consistent, using the same codes as public clinical datasets.
 
 ## Contact
-Available for remote EEG annotation and review work. Message me on LinkedIn: [YOUR LINKEDIN LINK]
+Available for remote EEG annotation and review work. Message me on LinkedIn: https://www.linkedin.com/in/abdulmalik-bukola-lawal-5a7b13124/
 
 ## License
 MIT
