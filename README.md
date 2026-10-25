@@ -2,7 +2,7 @@
 
 **A browser-based tool for labeling EEG artifacts and seizures using TUH standard codes. Open an EDF file, annotate it, and export a CSV. Nothing to install.**
 
-**Try it now:** https://YOUR-USERNAME.github.io/eeg-web-annotator/ (tap **Demo**)
+**Try it now:** https://mahjoge10.github.io/EEG-Web-Annotator/ (tap **Demo**)
 
 **Abdulmalik Lawal**: EEG technician with 400+ diagnostic recordings in pediatric neurology, now building tools for EEG annotation and artifact review.
 
