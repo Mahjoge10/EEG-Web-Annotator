@@ -4,7 +4,7 @@
 
 **Try it now:** https://mahjoge10.github.io/EEG-Web-Annotator/ (tap **Demo**)
 
-**Abdulmalik Lawal**: EEG technician with 400+ diagnostic recordings in pediatric neurology, now building tools for EEG annotation and artifact review.
+**Abdulmalik Bukola Lawal**: EEG technician with 400+ diagnostic recordings in pediatric neurology, now building tools for EEG annotation and artifact review.
 
 ## What it does
 - Opens standard `.edf` / EDF+ recordings directly in your browser
@@ -34,9 +34,9 @@ The codes follow the conventions of the Temple University Hospital (TUH) EEG cor
 | 7 | seiz | Seizure |
 
 ## Try it with real data
-1. Download a public EDF file, for example `chb05_06.edf` from the [CHB-MIT Scalp EEG Database](https://www.physionet.org/content/chbmit/1.0.0/chb05/).
+1. Download a public EDF file, from the [CHB-MIT Scalp EEG Database](https://www.physionet.org/content/chbmit/1.0.0/chb05/).
 2. Tap **Load EEG** and choose the file.
-3. Tap **Import labels** and choose `labels/chb05_06_seizure_labels.csv`. The view jumps to the seizure at 417-532 seconds.
+3. Tap **Import labels** and choose the appropriate label file.
 
 Only the first 10 minutes of a file load, and BDF files are not supported.
 
